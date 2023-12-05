@@ -1,4 +1,6 @@
-# M5 - Projeto Final Kanvas
+# API SCHOOL
+
+-API Rest para o gerenciamento de cursos e aulas de uma escola EAD.
 
 ## Preparando ambiente para execução dos testes
 
@@ -34,7 +36,7 @@ source venv/Scripts/activate
 5. Instale as bibliotecas necessárias:
 
 ```shell
-pip install model_bakery pytest-testdox pytest-django
+pip install -r requirements.txt
 ```
 
 
